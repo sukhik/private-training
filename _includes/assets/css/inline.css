@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary: white;
+	--secondary: #FD5E2B;
+	--background: #1C1A1A;
 }
 
 *, *:before, *:after {
@@ -174,7 +174,7 @@ button {
 
 input,
 textarea {
-	border: 1px solid black;
+	border: 1px solid white;
 }
 
 button {
