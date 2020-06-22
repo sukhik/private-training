@@ -1,32 +1,31 @@
 ---
 title: About us
-date: 2017-01-01T00:00:00.000Z
+date: 2020-06-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+Woman owned, woman trained private soccer experience for competitive players.
 
 ## Our services
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Even in private lessons, the thrust is on teamwork, the sport, fair play, and the beauty of the game. 
 
-### Blue-sky thinking
+We focus heavily on physical conditioning and development, agility, and injury prevention.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Our specialities are fundamentals and the female athlete.
 
-#### Management frameworks
+### Our Trainer
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Sukhi Grewal played on the Warriors, Lonestars, and Rangers, as well as for Westwood High School until 2007. At the intramural level, Sukhi played in college at UCSB. At the club level, Sukhi spent her graduate years playing at Berkeley. In 2018, Sukhi began picking up at Zilker and guest played with Austin Women's League as well as with co-ed adult leagues and FC's. She loves watching the men's and women's world cup as well as international games throughout the seasons. Beyond spectating, Sukhi's first job was refereeing soccer matches after getting registered and licensed through the Texas State Soccer Association in the early 2000's. She's now a multisport athlete, so if she isn't playing, watching, or training soccer, she's running, swimming, or practicing yoga.
 
-##### Regulatory convergence
+Over the last 20 years, Sukhi coped with chronic ankle sprains, ACL tears and other knee injuries, as well as tendon, ligament and muscle strains. Sukhi has seen it all, the full spectrum of experiences in the world of soccer and select soccer: tryouts, teams, coaches, players. The signal among the noise, for Sukhi, is the individual. She is dedicated to developing excellent players with winning attitudes. She is dedicated to developing the young players, and using the sport and game of soccer as a way to learn and enjoy life.
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+#### The Value
+
+These are the best prices for professional athletic development for your player. We also use the latest methods available and we're up to date on research relevant to the player and the game.
+
+##### The Location
+
+Our lessons are local. We utilize publicly owned parks and fields. In 2021, while we will have a modest private facility and field, we will continue using local and city resources for cross-training, field trips, and scrimmages.
