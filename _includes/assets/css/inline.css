@@ -20,6 +20,7 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
+	color: white;
 }
 
 main {
@@ -34,7 +35,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--primary);
+	color: #21A714;
 }
 
 a[href]:not(:hover) {
