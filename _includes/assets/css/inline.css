@@ -39,6 +39,7 @@ a[href]:visited {
 }
 
 a[href]:not(:hover) {
+	color: #1CA71A;
 	text-decoration: none;
 }
 
@@ -86,6 +87,7 @@ header > em {
 
 /* Header Nav */
 header nav ul {
+	color: #21A714;
 	padding: 0;
 	list-style: none;
 }
