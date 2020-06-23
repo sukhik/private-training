@@ -35,11 +35,11 @@ code {
 
 a[href],
 a[href]:visited {
-	color: black;
+	color: #1CA71A;
 }
 
 a[href]:not(:hover) {
-	color: #1CA71A;
+	color: black;
 	text-decoration: none;
 }
 
@@ -107,7 +107,7 @@ header nav li a {
 }
 
 header nav li a[href]:not(:hover) {
-	color: black;
+	color: white;
 	text-decoration: none;
 }
 
@@ -151,7 +151,7 @@ a[rel="tag"]:visited {
 a[rel="tag"]:hover {
 	border: 1px solid var(--primary);
 	background-color: var(--primary);
-	color: var(--secondary);
+	color: white;
 }
 
 a[rel="tag"]:last-child {
