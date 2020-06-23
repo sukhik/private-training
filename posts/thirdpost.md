@@ -1,23 +1,21 @@
 ---
-title: This is my third post which has a rather long title
-date: 2017-01-01T00:00:00.000Z
-author: Jane Doe
-summary: Why contemplating our mortality can be a powerful catalyst for change
+title: What does my player need to bring to practice?
+date: 2020-05-01T00:00:00.000Z
+author: Sukhi Grewal
+summary: Be prepared, the list is short, having a soccer bag helps.
 tags:
-  - tech
-  - politics
+  - gear
+  - training
+  - expectations
+  - parents
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-```
-pre,
-code {
-	line-height: 1.5;
-}
-```
+Please be sure your player has upwards of two bottles of water during summer training. 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Player needs cleats, flat shoes such as tennis shoes, indoor, or cross-training shoes, and slides to change into/from before reaching the field.
 
-## Section Header
+Player should be wearing long socks with cleats with or without shingaurds.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+A spare pair of regulation socks, shingaurds, and athletic tape or pre-wrap if your player has used it before should be in the bag.
+
+## See you at the field!
