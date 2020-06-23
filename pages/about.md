@@ -1,5 +1,5 @@
 ---
-title: About us
+title: About
 date: 2020-06-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
