@@ -39,7 +39,7 @@ a[href]:visited {
 }
 
 a[href]:not(:hover) {
-	color: #1CA71A;
+	color: #DCEEFF;
 	text-decoration: none;
 }
 
@@ -186,7 +186,7 @@ textarea {
 button {
 	border: 1px solid var(--primary);
 	background-color: var(--primary);
-	color: black;
+	color: #FFDCFD;
 	cursor: pointer;
 }
 
