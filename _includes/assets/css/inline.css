@@ -108,7 +108,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: #F21616;
+	background-color: #857B59;
 }
 
 /* Posts List */
@@ -181,7 +181,7 @@ textarea {
 button {
 	border: 1px solid var(--primary);
 	background-color: var(--primary);
-	color: var(--secondary);
+	color: black;
 	cursor: pointer;
 }
 
