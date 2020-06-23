@@ -43,7 +43,10 @@ a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header,
+header {
+	color: #1CA71A;
+}
+
 main,
 footer {
 	padding: 1em;
