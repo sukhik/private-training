@@ -1,14 +1,18 @@
 ---
-title: This is my fourth post
+title: Nutrition
 date: 2017-02-03T00:00:00.000Z
-author: John Doe
-summary: Why contemplating our mortality can be a powerful catalyst for change
+author: Sukhi Grewal
+summary: If you have nutrition confusion, look no further.
 tags:
-  - environment
-  - politics
+  - nutrition
+  - diet
+  - exercise
+  - fitness
 ---
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The diet is seriously 100% of the game.
 
-![A sample inlined image](https://source.unsplash.com/random/600x400)
+If your player is having difficulty training, sleeping, functioning in other ways, take a look at your diet.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+For young players, the family is accountable for nutrition.
+
+Please have a conversation with the coach who will be happy to help you on this piece of the puzzle.
