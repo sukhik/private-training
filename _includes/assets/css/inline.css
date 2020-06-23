@@ -76,6 +76,7 @@ pre {
 
 /* Header Logo (style as h2) */
 header > em {
+	color: #21A714;
 	display: block;
 	font-size: 2em;
 	margin: .67em 0;
@@ -109,7 +110,8 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: #D3C6A3;
+	color: black;
+	background-color: #857B59;
 }
 
 /* Posts List */
