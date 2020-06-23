@@ -30,7 +30,7 @@ main {
 p,
 pre,
 code {
-	line-height: 0.9;
+	line-height: 1.5;
 }
 
 a[href],
@@ -146,7 +146,6 @@ a[rel="tag"]:visited {
   border-radius: .25em;
   text-decoration: none;
 	margin: 0 .5em .5em 0;
-	color: white;
 }
 
 a[rel="tag"]:hover {
