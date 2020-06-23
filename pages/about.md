@@ -14,7 +14,7 @@ Even in private lessons, the thrust is on teamwork, the sport, fair play, and th
 
 We focus heavily on physical conditioning and development, agility, and injury prevention.
 
-Our specialities are fundamentals and the female athlete.
+Our specialities are conditioning, training in the fundamentals, and the female athlete.
 
 ## Our Trainer
 
