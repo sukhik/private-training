@@ -1,5 +1,5 @@
 ---
-name: John Doe
-email: johndoe@example.com
-github: https://github.com/notjohndoe
+name: Sukhi Grewal
+email: sukhigwal@gmail.com
+phone: (310)7280662
 ---
