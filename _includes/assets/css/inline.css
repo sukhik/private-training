@@ -35,7 +35,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: black;
+	color: #1CA71A;
 }
 
 a[href]:not(:hover) {
