@@ -35,11 +35,11 @@ code {
 
 a[href],
 a[href]:visited {
-	color: #1CA71A;
+	color: black;
 }
 
 a[href]:not(:hover) {
-	color: black;
+	color: #1CA71A;
 	text-decoration: none;
 }
 
