@@ -1,7 +1,7 @@
 ---
 title: Safety during novel coronavirus
 summary: Player and trainer safety during COVID-19.
-date: 202o-05-18
+date: 2020-05-18
 author: Sukhi Grewal
 tags:
   - COVID-19
