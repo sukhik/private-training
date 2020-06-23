@@ -1,6 +1,6 @@
 ---
 title: Nutrition
-date: 2017-02-03T00:00:00.000Z
+date: 2020-06-03T00:00:00.000Z
 author: Sukhi Grewal
 summary: If you have nutrition confusion, look no further.
 tags:
@@ -9,7 +9,7 @@ tags:
   - exercise
   - fitness
 ---
-The diet is seriously 100% of the game.
+The diet is 100% of the game.
 
 If your player is having difficulty training, sleeping, functioning in other ways, take a look at your diet.
 
