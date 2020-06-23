@@ -112,7 +112,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	color: black;
+	color: white;
 	background-color: #857B59;
 }
 
