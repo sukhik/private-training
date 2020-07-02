@@ -1,5 +1,5 @@
 ---
-title: 202o NWSL Challenge Cup Highlights | Portland Thorns FC vs. Chicago Red Stars
+title: 2020 NWSL Challenge Cup Highlights | Portland Thorns FC vs. Chicago Red Stars
 date: 2020-07-02T00:00:00.000Z
 author: Sukhi Grewal
 summary: Match highlights. All my players, this is your homework!
