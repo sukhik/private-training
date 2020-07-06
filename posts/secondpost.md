@@ -9,6 +9,6 @@ tags:
   - statement
   - policy
 ---
-Training continues but the utmost precautions are being taken to COMPLETELY LIMIT contact including the implementation of physical distancting at a clearance of 6ft.
+Training continues but the utmost precautions are being taken to COMPLETELY LIMIT contact including the implementation of physical distancing at a clearance of 6ft.
 
 ## If you or your player are experiencing symptoms or a fever, please stay home.
