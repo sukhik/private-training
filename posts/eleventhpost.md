@@ -2,7 +2,7 @@
 title: NWSL Challenge Cup | Utah Royals FC vs OL Reign
 date: 2020-07-08T00:00:00.000Z
 author: Sukhi Grewal
-summary: OL Reign claimed their first victory.
+summary: OL Reign claim their first victory.
 tags:  
   - video
   - NWSL
