@@ -1,14 +1,14 @@
 ---
-title: NWSL Challenge Cup | Utah Royals FC vs OL Reign
-date: 2020-07-08T00:00:00.000Z
+title: NWSL Challenge Cup | Houston Dash vs. OL Reign
+date: 2020-07-05T00:00:00.000Z
 author: Sukhi Grewal
-summary: OL Reign claimed their first victory.
+summary: OL Reign defeated in the Challenge Cup.
 tags:  
   - video
   - NWSL
   - soccer
   - homework
----
+---  
 
 Watch this video and look for stuff we learn in training applied by the pros.
 
