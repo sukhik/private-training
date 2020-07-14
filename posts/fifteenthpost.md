@@ -1,6 +1,6 @@
 ---
 title: NWSL Challenge Cup | Chicago Red Stars vs. Utah Royals FC
-date: 2020-07-04T00:00:01.000Z
+date: 2020-07-13T00:00:00.000Z
 author: Sukhi Grewal
 summary: Chicago Red Stars first win of Challenge Cup, a defeat of Utah Royals FC.
 tags:  
