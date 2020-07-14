@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 # Welcome
 
-[Sukhi Grewal's](http://www.sukhikgrewal.com) soccer training site for parents and players.
+[Sukhi Grewal's](https://www.sukhikgrewal.netlify.app) soccer training site for parents and players.
 
 Field and weather conditions under [announcements](https://sclub.netlify.app/announcements/).
 
