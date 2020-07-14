@@ -2,7 +2,7 @@
 title: NWSL Challenge Cup | Sky Blue FC vs. Houston Dash
 date: 2020-07-09T00:00:00.000Z
 author: Sukhi Grewal
-summary: Sky Blue FC earns their first Challenge Cup win with a victory over Houston Dash..
+summary: Sky Blue FC earns their first Challenge Cup win with a victory over Houston Dash.
 tags:  
   - video
   - NWSL
