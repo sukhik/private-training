@@ -12,4 +12,4 @@ tags:
 
 Watch this video and look for stuff we learn in training applied by the pros.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YsKRECK4-jE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukAJnZEAIMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
