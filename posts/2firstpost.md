@@ -1,6 +1,6 @@
 ---
 title: A note from your coach
-date: 2020-07-26T00:00:00.000Z
+date: 2020-07-29T00:00:00.000Z
 author: Sukhi Grewal
 summary: Checking in at the end of the summer
 tags:  
